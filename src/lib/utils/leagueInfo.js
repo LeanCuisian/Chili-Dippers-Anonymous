@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "1048351284631437312"; // your league ID
+export const leagueID = "1180193819286016000"; // your league ID
 export const leagueName = "Chili Dippers Anonymous"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
@@ -7,9 +7,12 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-<p>The 2024 season of Chili Dippers Anonymous is in full swing and a few have been able to seperate themselves from the pack. However, an injury ridden season may spoil their chances at the prized championship.</p>
+<p>With the commencement of the year 2 of Chili Dippers Anonymous, we now move to the offseason and prepare for the rookie draft. Date/time of our draft is TBD, but will likely start within a week of the NFL draft starting/finishing.</p>
 <p></p>
-<p>Welcome to our newest member, Catboy Dale Walker. May the fantasy gods be better to you than they were to your predecessor.</p>
+<p>I hope everyone is still enjoying the league, but if you're not and would like to drop out let me know so I can find someone else to take your spot ASAP.</p>
+<p></p>
+<p>League dues for 2025 are due before the start of the rookie draft. Feel free to send using the most convenient method for you - Venmo, Zelle, PayPal, check/cash, messaneger pidgeon, etc. You can see the latest status of how much is owed at the link below.</p>
+<p>https://docs.google.com/spreadsheets/d/e/2PACX-1vT8-o1l7aks57QJsV15LgbkeSUV9bSsHCC2Q5xZ6dHhXF5Yo4GNGZLG0DQ7U9e1ZxyOa2x-mn9-HXew/pubhtml?gid=0&single=true</p>
 <p></p>
 `;
 
